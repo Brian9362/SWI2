@@ -11,7 +11,7 @@ $ git help config
 $ cd D:/škola/SWI/doma
 $ git init                                                    //vytvori git
 Initialized empty Git repository in D:/škola/SWI/doma/.git/
-git remote add nazov										//dá nazov repository
+git remote add nazov <link z github>						//spojí z github pod nazvom...
 
 brian@HP-OMEN MINGW64 /d/škola/SWI/cv9 (master)
 $ ls -la                                                      //vypise obsah priecinka
